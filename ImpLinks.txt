@@ -1,0 +1,8 @@
+https://codeburst.io/how-to-launch-an-expo-managed-app-to-beta-testers-in-2020-61b5121089c8
+
+https://levelup.gitconnected.com/react-native-how-to-publish-an-expo-app-to-testflight-debug-common-errors-90e427b4b5ea
+
+//installing firebase 
+# Using npm
+npm install --save @react-native-firebase/app
+npm install @react-native-firebase/auth
